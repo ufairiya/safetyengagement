@@ -1,0 +1,15 @@
+div.endorse-list div#endorse-content div.report-details{padding:25px;}
+div.endorse-list div#endorse-content div.report-details h4.report-id{font-size:1.2em;margin:10px 10px 30px 10px;padding:0;border:none;font-weight:600;color:#5f9025;text-align:right;}
+div.endorse-list div#endorse-content div.report-details h5.report-header{font-size:1.1em;margin-bottom:10px;padding:10px 10px 5px 10px;border-bottom:1px solid #5f9025;font-weight:400;color:#5f9025;}
+div.endorse-list div#endorse-content div.report-details p, div.endorse-list div#endorse-content div.report-details ol{font-size:.95em;margin:10px 10px 20px 10px;}
+div.endorse-list div#endorse-content div.report-details ol li{padding-left:10px;}
+div.endorse-list div#endorse-content div.report-details p.report-clients, div.endorse-list div#endorse-content div.report-details p.report-contractors{margin:0 10px;padding:0;line-height:25px;}
+div.endorse-list div#endorse-content div.report-details p.report-clients span{width:90px;display:inline-block;font-weight:600;}
+
+div.endorse-list div#endorse-content div.report-details div.report-img-holder{height:190px;}
+div.endorse-list div#endorse-content div.report-details div.report-img-holder img{border-radius:10px;display:block;float:right;padding:0px;width:160px;height:160px;object-fit:cover;margin:10px;}
+div.endorse-list div#endorse-content div.report-details h4.user-id{font-size:1.2em;margin:10px 10px 30px 10px;padding:0;border:none;font-weight:600;color:#5f9025;}
+div.endorse-list div#endorse-content div.report-details p.apartment-name{padding:0;margin:20px 10px 0px 10px;font-weight:600;color:#5f9025;line-height:1.6em;}
+div.endorse-list div#endorse-content div.report-details p.apartment-address{padding:0;margin:0 10px;line-height:1.3em;}
+
+div.endorse-list div#endorse-content div.report-details p.report-contractors span {width:190px;display:inline-block;font-weight:600;}
